@@ -1,4 +1,3 @@
-# .github
 **Pomodorify**
 
 Welcome to Pomodorify - Your Pomodoro App for Android!
