@@ -4,8 +4,8 @@ Welcome to Pomodorify - Your Pomodoro App for Android!
 
 **Creators:**
 
-- [Norbert](https://github.com/NorbertProfile)
-- [Tomasz](https://github.com/TomaszProfile)
+- [Norbert](https://github.com/NorbertKoziana)
+- [Tomasz](https://github.com/TomaszJarzabek15)
 
 **About Pomodorify:**
 
