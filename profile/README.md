@@ -16,15 +16,15 @@ Pomodorify is a productivity-focused mobile application designed to enhance your
 - **Pomodoro Timer:** Set customizable work and break intervals to structure your work sessions efficiently.
 - **Task Management:** Organize your tasks and track your progress within each pomodoro session.
 - **Productivity Stats:** Analyze your productivity trends over time with insightful statistics.
-- **Customization:** Tailor the app to suit your preferences with various themes and sound options.
+- **Customization:** Tailor the app to suit your preferences with themes and sound options.
 - **Intuitive Interface:** Enjoy a user-friendly experience with easy navigation and intuitive controls.
 
 **Get Started:**
 
 1. **Download:** Install Pomodorify from the Google Play Store.
-2. **Set Goals:** Define your tasks and set timers to begin your focused work sessions.
+2. **Set Goals:** Define your task and set timers to begin your focused work session.
 3. **Track Progress:** Monitor your productivity and analyze your performance through detailed statistics.
-4. **Stay Motivated:** Stay motivated with encouraging notifications and achievement milestones.
+4. **Stay Motivated:** Stay motivated and track your progress using statistics.
 
 **Contribute:**
 
